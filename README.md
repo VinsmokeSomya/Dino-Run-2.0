@@ -1,4 +1,6 @@
 # Dino Run 2.0
+
+<img align="right" height="400" src="Dino Run 2.0/Dino Run 2.0.png"  />
 The "Dino Game 2.0" GitHub repository is an exciting and improved version of the classic Dinosaur Game.
 
 Key features of this version include:
