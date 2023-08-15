@@ -1,6 +1,6 @@
 # Dino Run 2.0
 
-<img align="right" height="400" src="Dino Run 2.0/Dino Run 2.0.png"/>
+<img align="right" height="400" src="Dino Run 2.0/Dino Run 2.0.jpg"/>
 The "Dino Game 2.0" is an exciting and improved version of the classic Dinosaur Game Made Using PyGame.
 
 Key features of this version include:
